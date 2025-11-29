@@ -8,6 +8,6 @@ add scm as github url, credencial,
 
 Step 2
 install docker in same server
-and write ansible play book
+and write ansible play book.
 
 

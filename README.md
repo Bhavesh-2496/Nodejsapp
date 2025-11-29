@@ -1,2 +1,5 @@
 # Nodejsapp
-Nodejs project CICD with Ansible &amp; Docker
+Nodejs project CICD with Ansible, Docker
+
+Step 1 
+

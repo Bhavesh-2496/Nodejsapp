@@ -6,3 +6,7 @@ Install jenkins on AWS ubuntu server
 Create free style project
 add scm as github url, credencial,
 
+Step 2
+install docker in same server
+
+
